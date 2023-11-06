@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AJSpaceWitch also known as Amelia
-- 👀 I’m interested in many things! I'm currently doing a Masters by Research in Astrophysics studying Wolf Rayet stars.
-- 🌱 I use Python and IRAF most often in my work. I’m currently learning HTML and CSS. I'm not actively studying IDL or Fortran but I do intend to pick them back up eventually.
-- 💞️ I’m not currently looking to collaborate on anything, but I'd be open to working on tools for Astronomers using Python.
+- 👀 I’m interested in many things! I have recently finished a Masters by Research in Astrophysics studying Wolf Rayet stars.
+- 🌱 I use Python and IRAF most often in my work. I’m currently self-studying HTML and CSS. I have also used IDL and Fortran77 during my studies.
+- 💞️ My current goal is to create Python equivalents to some of the IRAF and IDL tools I've used for research.
 - 📫 You can reach me on the same tag on twitter.
 
 <!---
